@@ -1,7 +1,8 @@
 # Marshall AI Governance Standard
 
-The **Marshall AI Governance Standard** is a practical framework designed to help organizations introduce responsible governance boundaries for artificial intelligence systems before operational risks emerge.
+# Marshall AI Governance Standard
 
+The **Marshall AI Governance Standard** is a governance framework for responsible adoption of artificial intelligence that preserves clear human accountability for AI-assisted decisions.
 As artificial intelligence becomes embedded in everyday software tools and workflows, many organizations adopt AI capabilities faster than leadership structures can adapt. Without clear governance, AI-assisted decisions can blur accountability and expose organizations to operational risk.
 
 The Marshall Standard focuses on establishing visibility, boundaries, and human accountability for AI-assisted decision-making.
